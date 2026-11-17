@@ -1,0 +1,6 @@
+github:
+  triggers:
+    on_mention: false
+agent:
+  harness:
+    name: claude_code
